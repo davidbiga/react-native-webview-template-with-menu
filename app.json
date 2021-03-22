@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Webview Template with Menu",
+    "slug": "reactnatviewebviewtemplate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "reactnatviewebviewtemplate",
+    "userInterfaceStyle": "automatic",
+    "icon": "assets/images/icon.png",
+    "splash": {
+      "image": "assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "android": {
+      "permissions": []
+    }
+  },
+  "displayName": "exampleapp",
+  "name": "React Native Webview Template with Menu"
+}

@@ -9,8 +9,10 @@ npm-debug.*
 *.orig.*
 web-build/
 *.hprof
-android/app/build/
 # macOS
 .DS_Store
+# android
+android/app/debug.keystore
 android/.idea/*
 android/.gradle/*
+android/app/build/
